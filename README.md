@@ -25,7 +25,7 @@ Cada mensaje de una conversación vuelve a leer todo el contexto anterior. Una c
 Requiere Python 3 y Claude Code.
 
 ```bash
-git clone https://github.com/cdelgadob/claude-code-contador.git
+git clone https://github.com/SolSoftwareSolutions/claude-code-contador.git
 cd claude-code-contador
 bash install.sh
 ```
